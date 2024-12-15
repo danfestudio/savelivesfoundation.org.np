@@ -1,9 +1,4 @@
 /*-----------------------------------------------------------------
-Theme Name: Charityow
-Author: EXdesigners
-Author URI: https://themeforest.net/user/exdesigners 
-Version: 1.0.0 
-Description: Charityow - Charity & Donation Html Template
 
 -------------------------------------------------------------------
  CSS TABLE OF CONTENTS
@@ -43,8 +38,7 @@ Description: Charityow - Charity & Donation Html Template
 /*----------------------------------------------
     # All Variables here
 ----------------------------------------------*/
-@import url("../../../css2");
-@import url("../../../css2-1");
+
 :root {
   --body: #fff;
   --black: #000;
@@ -63,9 +57,7 @@ Description: Charityow - Charity & Donation Html Template
 }
 
 /* 03.Typography */
-/* --------------------------------------------
-    Template Default Fonts & Fonts Styles
- ---------------------------------------------- */
+
 body {
   font-family: "Kanit", sans-serif;
   font-size: 16px;
@@ -5420,63 +5412,63 @@ span {
   font-style: normal;
   font-weight: 100;
   font-display: swap;
-  src: url(s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC0C4E.ttf) format('truetype');
+  src: url(../fonts/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC0C4E.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Outfit';
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bC1C4E.ttf) format('truetype');
+  src: url(../fonts/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bC1C4E.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Outfit';
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61C4E.ttf) format('truetype');
+  src: url(../fonts/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61C4E.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Outfit';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4E.ttf) format('truetype');
+  src: url(../fonts/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4E.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Outfit';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1C4E.ttf) format('truetype');
+  src: url(../fonts/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1C4E.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Outfit';
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4E.ttf) format('truetype');
+  src: url(../fonts/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4E.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Outfit';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyC4E.ttf) format('truetype');
+  src: url(../fonts/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyC4E.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Outfit';
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bCyC4E.ttf) format('truetype');
+  src: url(../fonts/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bCyC4E.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Outfit';
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyC4E.ttf) format('truetype');
+  src: url(../fonts/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyC4E.ttf) format('truetype');
 }
 
 @font-face {
@@ -5484,26 +5476,26 @@ span {
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(s/kanit/v15/nKKZ-Go6G5tXcoaS.ttf) format('truetype');
+  src: url(../fonts/kanit/v15/nKKZ-Go6G5tXcoaS.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Kanit';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(s/kanit/v15/nKKU-Go6G5tXcr5mOCWg.ttf) format('truetype');
+  src: url(../fonts/kanit/v15/nKKU-Go6G5tXcr5mOCWg.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Kanit';
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(s/kanit/v15/nKKU-Go6G5tXcr5KPyWg.ttf) format('truetype');
+  src: url(../fonts/kanit/v15/nKKU-Go6G5tXcr5KPyWg.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Kanit';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(s/kanit/v15/nKKU-Go6G5tXcr4uPiWg.ttf) format('truetype');
+  src: url(../fonts/kanit/v15/nKKU-Go6G5tXcr4uPiWg.ttf) format('truetype');
 }
